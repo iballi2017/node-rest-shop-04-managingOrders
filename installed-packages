@@ -1,0 +1,8 @@
+Login package for Nodejs
+Morgan: npm install --save morgan
+
+To extract Reaquest body of an incoming request (e.g POST request), we need to install a package called "body-parser"
+: npm install --save body-parser
+
+To connect with the database, we need to install a database package called "Mongoose"
+:  npm install --save mongoose
